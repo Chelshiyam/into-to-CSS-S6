@@ -1,0 +1,93 @@
+#mainheading{
+    color: deeppink;
+    background-color: aqua;
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Times New Roman', Times, serif;
+    box-shadow: 10px 10px 10px black;
+    border: 5px solid black;
+    border-radius: 20px;
+}
+
+#GoldenRetriever{
+  width: 300px;
+  height: 300px;
+
+}
+
+#Labrador{
+    width: 300px;
+    height: 300px;
+}
+
+#Pomeranian{
+    width: 300px;
+    height: 300px;
+}
+
+#SaintBernard{
+    width: 300px;
+    height: 300px;
+}
+
+#SiberianHusky{
+    width: 300px;
+    height: 300px;
+}
+
+#indexBody{
+    background-color: beige;
+}
+
+#goldenretriver{
+    color: crimson;
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 3rem;
+    border:5px solid black;
+    border-radius: 20px;
+
+}
+#description{
+    color: darkmagenta;
+
+}
+#characteristics{
+    color: darkmagenta;
+}
+#Appearance{
+    color: darkmagenta;
+}
+#labrador{
+    color: rgb(220, 20, 177);
+    background-color: rgb(127, 202, 255);
+    text-align: center;
+    font-size: 3rem;
+    border: 5px solid rgb(7, 9, 11);
+    border-radius: 20px;
+}
+#pomeranian{
+    color: chartreuse;
+    background-color: blueviolet;
+    text-align: center;
+    font-size: 3rem;
+    border: 5px solid chartreuse;
+    border-radius: 20px;
+
+}
+#saintbernard{
+    color: crimson;
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 3rem;
+    border:5px solid black;
+    border-radius: 20px;
+}
+#siberianhusky{
+    color: crimson;
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 3rem;
+    border:5px solid black;
+    border-radius: 20px;
+}
